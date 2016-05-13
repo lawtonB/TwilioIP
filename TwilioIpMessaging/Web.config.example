@@ -9,10 +9,10 @@
     <add key="webpages:Enabled" value="false" />
     <add key="ClientValidationEnabled" value="true" />
     <add key="UnobtrusiveJavaScriptEnabled" value="true" />
-    <add key="TwilioAccountSid" value="ACxxxxxxxx" />
-    <add key="TwilioApiKey" value="SKxxxxxxxxxxx" />
-    <add key="TwilioApiSecret" value="xxxxxxxx" />
-    <add key="TwilioIpmServiceSid" value="ISxxxxxxxxx" />
+    <add key="TwilioAccountSid" value="SK08ad296813e016b960490e285fe89360" />
+    <add key="TwilioApiKey" value="SK08ad296813e016b960490e285fe89360" />
+    <add key="TwilioApiSecret" value="LvaqblFxlY9F8MN4teZRptvYHLxlJunz" />
+    <add key="TwilioIpmServiceSid" value="IS519be98a1f264ead947abd94370f91c3" />
   </appSettings>
   <system.web>
     <compilation debug="true" targetFramework="4.5.2" />
